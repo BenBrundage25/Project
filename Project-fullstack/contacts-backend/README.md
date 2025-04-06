@@ -1,5 +1,7 @@
 # contacts-backend
 
+There is an issue with the postgres as it doesn't load properly, this could be due to my .env link being wrong or something else. I will have to do more research to find it out.
+
 To install dependencies:
 
 ```bash
